@@ -1,0 +1,33 @@
+body {
+    width: 90%;
+    margin: auto;
+    color: yellowgreen;
+    background-color: black;
+}
+
+.header {
+    margin-bottom: 3%;
+    text-align: center;
+    border: yellowgreen solid 2px;
+    padding: 1%;
+}
+
+.row {
+    margin-top: 3%;
+}
+
+.sidebar{
+    margin: auto;
+    border: yellowgreen solid 2px;
+    padding: 1%;
+    float: right;
+    width: 20%;
+}
+
+.content{
+    margin: auto;
+    border: yellowgreen solid 2px;
+    padding: 1%;
+    float: left;
+    width: 69%;
+}
